@@ -93,7 +93,11 @@ streamlit run app.py
 
 * Improve model accuracy
 * Add more personality features
-* Deploy on cloud (Streamlit Cloud / Render / AWS)
+
+---
+
+## Live App
+* Streamlit Deployment : https://tanviganji18-personality-prediction-logistic-regress-app-ctsxpn.streamlit.app/
 
 ---
 
